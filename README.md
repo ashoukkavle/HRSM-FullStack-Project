@@ -1,8 +1,9 @@
 
 ![login](https://github.com/user-attachments/assets/ff5921f3-4383-4227-943b-8e421a510a0b)
-![dashboard](https://github.com/user-attachments/assets/6c9d079c-d91f-4bf3-a222-3d8fc4a9f88f)
 ![employeelist](https://github.com/user-attachments/assets/d1be26e5-b1d5-47e2-a490-ae30853de72c)
 ![Registration](https://github.com/user-attachments/assets/a55aec45-d12b-464b-aaa5-71ab1eed50b6)
+![dashboard](https://github.com/user-attachments/assets/6cc2e15a-4779-4143-b1fd-3a526f74faf0)
+
 
 
 
