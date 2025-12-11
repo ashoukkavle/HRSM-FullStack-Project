@@ -1,8 +1,6 @@
 
 ![login](https://github.com/user-attachments/assets/ff5921f3-4383-4227-943b-8e421a510a0b)
 ![dashboard](https://github.com/user-attachments/assets/6c9d079c-d91f-4bf3-a222-3d8fc4a9f88f)
-![dashboard](https://github.com/user-attachments/assets/21fa2590-af33-49b4-b2cc-1855d15d1b6c)
-
 ![Registration](https://github.com/user-attachments/assets/a55aec45-d12b-464b-aaa5-71ab1eed50b6)
 
 
