@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\HRMS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{670051A3-A77D-46DB-8F67-45B5A9980577}|HRMS\\HRMS.csproj|d:\\hrms\\hrms\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{670051A3-A77D-46DB-8F67-45B5A9980577}|HRMS\\HRMS.csproj|solutionrelative:hrms\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{670051A3-A77D-46DB-8F67-45B5A9980577}|HRMS\\HRMS.csproj|d:\\hrms\\hrms\\models\\dashboardstatsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{670051A3-A77D-46DB-8F67-45B5A9980577}|HRMS\\HRMS.csproj|solutionrelative:hrms\\models\\dashboardstatsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{670051A3-A77D-46DB-8F67-45B5A9980577}|HRMS\\HRMS.csproj|d:\\hrms\\hrms\\controllers\\mastercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{670051A3-A77D-46DB-8F67-45B5A9980577}|HRMS\\HRMS.csproj|solutionrelative:hrms\\controllers\\mastercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{670051A3-A77D-46DB-8F67-45B5A9980577}|HRMS\\HRMS.csproj|d:\\hrms\\hrms\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{670051A3-A77D-46DB-8F67-45B5A9980577}|HRMS\\HRMS.csproj|solutionrelative:hrms\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{670051A3-A77D-46DB-8F67-45B5A9980577}|HRMS\\HRMS.csproj|d:\\hrms\\hrms\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{670051A3-A77D-46DB-8F67-45B5A9980577}|HRMS\\HRMS.csproj|solutionrelative:hrms\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{670051A3-A77D-46DB-8F67-45B5A9980577}|HRMS\\HRMS.csproj|d:\\hrms\\hrms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{670051A3-A77D-46DB-8F67-45B5A9980577}|HRMS\\HRMS.csproj|solutionrelative:hrms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{670051A3-A77D-46DB-8F67-45B5A9980577}|HRMS\\HRMS.csproj|d:\\hrms\\hrms\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{670051A3-A77D-46DB-8F67-45B5A9980577}|HRMS\\HRMS.csproj|solutionrelative:hrms\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{670051A3-A77D-46DB-8F67-45B5A9980577}|HRMS\\HRMS.csproj|d:\\hrms\\hrms\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{670051A3-A77D-46DB-8F67-45B5A9980577}|HRMS\\HRMS.csproj|solutionrelative:hrms\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{670051A3-A77D-46DB-8F67-45B5A9980577}|HRMS\\HRMS.csproj|d:\\hrms\\hrms\\hrms.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{670051A3-A77D-46DB-8F67-45B5A9980577}|HRMS\\HRMS.csproj|solutionrelative:hrms\\hrms.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "D:\\HRMS\\HRMS\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "HRMS\\Controllers\\DashboardController.cs",
+              "ToolTip": "D:\\HRMS\\HRMS\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "HRMS\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T15:57:38.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DashboardStatsDto.cs",
+              "DocumentMoniker": "D:\\HRMS\\HRMS\\Models\\DashboardStatsDto.cs",
+              "RelativeDocumentMoniker": "HRMS\\Models\\DashboardStatsDto.cs",
+              "ToolTip": "D:\\HRMS\\HRMS\\Models\\DashboardStatsDto.cs",
+              "RelativeToolTip": "HRMS\\Models\\DashboardStatsDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T15:56:52.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\HRMS\\HRMS\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "HRMS\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\HRMS\\HRMS\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "HRMS\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T15:11:41.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MasterController.cs",
+              "DocumentMoniker": "D:\\HRMS\\HRMS\\Controllers\\MasterController.cs",
+              "RelativeDocumentMoniker": "HRMS\\Controllers\\MasterController.cs",
+              "ToolTip": "D:\\HRMS\\HRMS\\Controllers\\MasterController.cs",
+              "RelativeToolTip": "HRMS\\Controllers\\MasterController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA5wBsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T15:07:11.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\HRMS\\HRMS\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "HRMS\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\HRMS\\HRMS\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "HRMS\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAowB8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T14:26:42.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\HRMS\\HRMS\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "HRMS\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\HRMS\\HRMS\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "HRMS\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T14:12:40.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HRMS.csproj",
+              "DocumentMoniker": "D:\\HRMS\\HRMS\\HRMS.csproj",
+              "RelativeDocumentMoniker": "HRMS\\HRMS.csproj",
+              "ToolTip": "D:\\HRMS\\HRMS\\HRMS.csproj",
+              "RelativeToolTip": "HRMS\\HRMS.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-26T10:50:43.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\HRMS\\HRMS\\appsettings.json",
+              "RelativeDocumentMoniker": "HRMS\\appsettings.json",
+              "ToolTip": "D:\\HRMS\\HRMS\\appsettings.json",
+              "RelativeToolTip": "HRMS\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-26T10:50:35.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\HRMS\\HRMS\\Program.cs",
+              "RelativeDocumentMoniker": "HRMS\\Program.cs",
+              "ToolTip": "D:\\HRMS\\HRMS\\Program.cs",
+              "RelativeToolTip": "HRMS\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T10:46:00.622Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

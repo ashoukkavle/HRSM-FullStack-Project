@@ -1,0 +1,5 @@
+
+    .auth-container { height: 100vh; display: flex; justify-content: center; align-items: center; background: #e9ecef; }
+    .auth-box { background: white; padding: 40px; border-radius: 8px; width: 320px; text-align: center; box-shadow: 0 4px 10px rgba(0,0,0,0.1); }
+    input { width: 90%; padding: 10px; margin: 10px 0; border: 1px solid #ccc; border-radius: 4px; }
+    button { width: 100%; padding: 10px; background: #007bff; color: white; border: none; cursor: pointer; border-radius: 4px; }

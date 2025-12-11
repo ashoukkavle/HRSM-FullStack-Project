@@ -1,0 +1,11 @@
+<p>user-list works!</p>
+<div>
+  <input #input placeholder="Enter name">
+  <button (click)="addUser(input.value); input.value=''">Add</button>
+</div>
+
+<ul>
+  <li *ngFor="let user of users; trackBy: trackByUserId">
+    {{ user.name }}
+  </li>
+</ul>

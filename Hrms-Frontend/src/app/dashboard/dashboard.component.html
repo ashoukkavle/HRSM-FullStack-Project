@@ -1,0 +1,38 @@
+<header>
+  <h2>Welcome, {{ authService.currentUser()?.fullName }}!</h2>
+  <div class="user-badge">
+    {{ authService.currentUser()?.role }} | {{ authService.currentUser()?.department }}
+  </div>
+</header>
+
+<div class="cards-grid" *ngIf="stats$ | async as stats; else loading">
+      
+  <div class="card blue">
+    <h3>👥 Total Employees</h3>
+    <p class="count">{{ stats.totalEmployees }}</p>
+    <small>Registered Users</small>
+  </div>
+
+  <div class="card green">
+    <h3>✅ Active Projects</h3>
+    <p class="count">{{ stats.activeProjects }}</p>
+    <small>On Track</small>
+  </div>
+
+  <div class="card orange">
+    <h3>⚠️ Pending Leaves</h3>
+    <p class="count">{{ stats.pendingLeaves }}</p>
+    <small>Action required</small>
+  </div>
+
+  <div class="card purple">
+    <h3>👤 Profile</h3>
+    <p><strong>{{ authService.currentUser()?.fullName }}</strong></p>
+    <small>Logged In</small>
+  </div>
+
+</div>
+
+<ng-template #loading>
+  <p class="loading-text">📊 Loading Dashboard Data...</p>
+</ng-template>

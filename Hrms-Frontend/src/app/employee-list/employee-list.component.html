@@ -1,0 +1,23 @@
+<div class="container mt-3">
+  <h3>Employees</h3>
+
+  <table class="table table-bordered table-striped mt-2">
+    <thead>
+      <tr>
+        <th>Full Name</th>
+        <th>Username</th>
+        <th>Role</th>
+        <th>Department</th>
+      </tr>
+    </thead>
+
+    <tbody>
+      <tr *ngFor="let emp of users$ | async">
+        <td>{{ emp.fullName }}</td>
+        <td>{{ emp.username }}</td>
+        <td>{{ emp.role }}</td>
+        <td>{{ emp.department }}</td>
+      </tr>
+    </tbody>
+  </table>
+</div>

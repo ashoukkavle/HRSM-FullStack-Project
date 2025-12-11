@@ -1,0 +1,53 @@
+
+    <div class="auth-container">
+      <div class="auth-box">
+        <h2>📝 Register</h2>
+
+        <form [formGroup]="regForm" (ngSubmit)="onSubmit()">
+          
+          <div class="form-group">
+            <input type="text" formControlName="fullName" placeholder="Full Name" 
+                   [class.invalid]="isInvalid('fullName')" />
+          </div>
+
+          <div class="form-group">
+            <input type="text" formControlName="username" placeholder="Username" 
+                   [class.invalid]="isInvalid('username')" />
+          </div>
+
+          <div class="form-group">
+            <input type="password" formControlName="password" placeholder="Password (Min 6 chars)" 
+                   [class.invalid]="isInvalid('password')" />
+          </div>
+
+          <div class="form-group">
+            <select formControlName="roleId" [class.invalid]="isInvalid('roleId')">
+              <option [ngValue]="null" disabled>Select Role</option>
+              <option *ngFor="let role of roles$ | async" [ngValue]="role.id">
+                {{ role.roleName }}
+              </option>
+            </select>
+          </div>
+
+          <div class="form-group">
+            <select formControlName="departmentId" [class.invalid]="isInvalid('departmentId')">
+              <option [ngValue]="null" disabled>Select Department</option>
+              <option *ngFor="let dept of departments$ | async" [ngValue]="dept.id">
+                {{ dept.departmentName }}
+              </option>
+            </select>
+          </div>
+
+          <p *ngIf="error$ | async as err" class="error-msg">{{ err }}</p>
+
+          <button type="submit" [disabled]="regForm.invalid || (isLoading$ | async)">
+            <span *ngIf="isLoading$ | async">Registering... ⏳</span>
+            <span *ngIf="!(isLoading$ | async)">Register</span>
+          </button>
+
+        </form>
+
+        <p class="login-link">Already have an account? <a routerLink="/login">Login here</a></p>
+      </div>
+    </div>
+  

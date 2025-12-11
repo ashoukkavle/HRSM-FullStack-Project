@@ -1,0 +1,22 @@
+<div class="dashboard-layout">
+
+  <aside class="sidebar">
+    <div class="brand">🏢 HRSM Portal</div>
+
+  <nav>
+  <ul>
+    <li><a routerLink="/dashboard" routerLinkActive="active">🏠 Dashboard</a></li>
+    <li><a routerLink="/register" routerLinkActive="active">👥 Registraion</a></li>
+    <li><a routerLink="/attendance" routerLinkActive="active">📅 Attendance</a></li>
+    <li><a routerLink="/employeeslist" routerLinkActive="active">📝 Employees</a></li>
+    <li (click)="logout()" class="logout">🚪 Logout</li>
+  </ul>
+</nav>
+
+  </aside>
+
+  <main class="content">
+    <router-outlet></router-outlet>
+  </main>
+
+</div>

@@ -1,0 +1,16 @@
+
+    .auth-container { display: flex; justify-content: center; align-items: center; height: 100vh; background-color: #f0f2f5; font-family: sans-serif; }
+    .auth-box { background: white; padding: 30px; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.1); width: 350px; text-align: center; }
+    
+    h2 { margin-bottom: 20px; color: #333; }
+    
+    input, select { width: 100%; padding: 12px; margin: 8px 0; border: 1px solid #ccc; border-radius: 5px; box-sizing: border-box; }
+    input.invalid, select.invalid { border-color: #dc3545; background-color: #fff8f8; }
+    
+    button { width: 100%; padding: 12px; background-color: #28a745; color: white; border: none; border-radius: 5px; cursor: pointer; font-size: 16px; margin-top: 15px; transition: 0.3s; }
+    button:disabled { background-color: #94d3a2; cursor: not-allowed; }
+    button:hover:not(:disabled) { background-color: #218838; }
+
+    .error-msg { color: #dc3545; background: #ffe6e6; padding: 10px; border-radius: 5px; margin-top: 10px; font-size: 14px; }
+    .login-link { margin-top: 15px; font-size: 14px; }
+    a { color: #007bff; text-decoration: none; font-weight: bold; }
