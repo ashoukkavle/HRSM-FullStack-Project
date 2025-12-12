@@ -67,12 +67,6 @@ Step 1: Setup Backend
     ```
     (Open `http://localhost:4200` in your browser)
 
----
-
-## 📸 Screenshots
-*(You can see the Login Page and Dashboard in the code files)*
-
----
 
 ### Author
 **Ashok Kavle**
